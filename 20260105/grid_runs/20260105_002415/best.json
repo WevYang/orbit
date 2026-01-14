@@ -1,0 +1,22 @@
+{
+  "cfg": {
+    "beta1": 0.0,
+    "tau_scale": 0.7,
+    "use_veto": false,
+    "veto_delta": 0.0
+  },
+  "metrics": {
+    "acc": 0.5,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "yes_ratio": 0.0,
+    "tp": 0.0,
+    "tn": 150.0,
+    "fp": 0.0,
+    "fn": 150.0,
+    "n": 300.0
+  },
+  "baseline_precision": 0.0,
+  "prec_ok": true
+}
